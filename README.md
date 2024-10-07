@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdeAprianto
+- 👋 Hi, I’m @ade_aprianto
 - 👀 I’m interested in Android Programming (apps and games) and web development.
 - 🌱 I’m currently learning Java, HTML, CSS & JavaScript.
 - 💞️ I’m looking to collaborate on a web based project.
